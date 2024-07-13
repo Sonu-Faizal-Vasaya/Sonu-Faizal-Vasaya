@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sonu-Faizal-Vasaya
-- 👀 I’m interested in Data.
-- 🌱 I’m currently learning Data science course from Upgrad.
+## Hey! Nice to see you. <div align = 'right'>![](https://komarev.com/ghpvc/?username=Sonu-Faizal-Vasaya&color=yellow)</div>
+
+
 
 <!---
 Sonu-Faizal-Vasaya/Sonu-Faizal-Vasaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
